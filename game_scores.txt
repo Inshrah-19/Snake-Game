@@ -1,0 +1,4 @@
+MaxGameScore 120
+inshrah 120
+Alina 50
+ayman 40
